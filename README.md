@@ -1,6 +1,6 @@
-# Home Sales Big Data Analysis with PySpark and SparkSQL
+# Home Sales Big Data Analysis with SparkSQL/PySpark
 
-This project involves analyzing home sales data using PySpark and SparkSQL. The goal is to gain insights into home prices by running various SQL queries, leveraging caching for performance improvements, and using partitioned parquet data for efficient data management. This analysis focuses on understanding price trends based on home features, including the number of bedrooms, bathrooms, and views, as well as how these trends vary over time.
+This project involves analyzing home sales data using SparkSQL/PySpark. The goal is to gain insights into home prices by running various SQL queries, leveraging caching for performance improvements, and using partitioned parquet data for efficient data management. This analysis focuses on understanding price trends based on home features, including the number of bedrooms, bathrooms, and views, as well as how these trends vary over time.
 
 ## Summary
 The project explores a dataset of home sales using PySpark, with the following key tasks:
@@ -16,7 +16,7 @@ By the end of this project, we will understand how data can be processed and ana
 ## Instructions
 
 ### 1. File Renaming
-Rename the `Home_Sales_starter_code.ipynb` file as `Home_Sales.ipynb`.
+Rename the `.ipyng` file as `Home_Sales.ipynb`.
 
 ### 2. Import Required Libraries
 Import the necessary PySpark SQL functions required for the assignment.
