@@ -16,7 +16,7 @@ By the end of this project, we will understand how data can be processed and ana
 ## Instructions
 
 ### 1. File Renaming
-Rename the `Home_Sales_starter_code.ipynb` file as `Home_Sales.ipynb`.
+Rename the `.ipyng` file as `Home_Sales.ipynb`.
 
 ### 2. Import Required Libraries
 Import the necessary PySpark SQL functions required for the assignment.
