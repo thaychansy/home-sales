@@ -15,7 +15,7 @@ By the end of this project, we will understand how data can be processed and ana
 
 ## Instructions
 
-### 1. File Renaming.
+### 1. File Renaming
 Rename the `.ipyng` file as `Home_Sales.ipynb`.
 
 ### 2. Import Required Libraries
